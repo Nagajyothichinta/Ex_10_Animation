@@ -31,8 +31,8 @@ Step 8: Save and run the application.
  ```
 /*
 Program to create and design an android application for performing different animations
-Developed by: Aruru sai Bandhavi
-RegisterNumber:  212221240006
+Developed by:Ch.Nagajyothi
+RegisterNumber:  212221230015
 */
 ```
 
